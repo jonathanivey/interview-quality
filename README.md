@@ -2,7 +2,7 @@
 # What Makes a Good Response? An Empirical Analysis of Quality in Qualitative Interviews
 
 This repository contains the code for the paper:
-> Jonathan Ivey, Anjalie Field, and Ziang Xiao. 2026. What Makes a Good Response? An Empirical Analysis of Quality in Qualitative Interviews. In *arXiv preprint* ArXiv:XXXX.XXXXX [cs].
+> Jonathan Ivey, Anjalie Field, and Ziang Xiao. 2026. What Makes a Good Response? An Empirical Analysis of Quality in Qualitative Interviews. In *arXiv preprint* ArXiv:2604.05163 [cs].
 
 In this paper we identify, implement, and evaluate 10 proposed measures of interview response quality to determine which are actually predictive of a response's contribution to the study findings. To conduct our analysis, we introduce the [Qualitative Interview Corpus](https://data.qdr.syr.edu/dataset.xhtml?persistentId=doi:10.5064/F6JWVCH6), a newly constructed dataset of 343 interview transcripts with 16,940 participant responses from 14 real research projects.
 
