@@ -10,14 +10,14 @@ In this paper we identify, implement, and evaluate 10 proposed measures of inter
 If you use our work, please cite it as:
 
 ```
-@misc{ivey2026whatmakesgoodresponse,
+@misc{ivey2026makesgoodresponseempirical,
       title={What Makes a Good Response? An Empirical Analysis of Quality in Qualitative Interviews}, 
       author={Jonathan Ivey and Anjalie Field and Ziang Xiao},
       year={2026},
-      eprint={TBD},
+      eprint={2604.05163},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={TBD}, 
+      url={https://arxiv.org/abs/2604.05163}, 
 }
 ```
 
@@ -26,21 +26,21 @@ If you use the Qualitative Interview Corpus, please ensure you cite both our wor
 Example of an ACL style citation:
 
 ```
-We use the Qualitative Interview Corpus \citep{ivey2026whatmakesgoodresponse}, which contains interview transcripts from 14 research projects \citep{F68TOJJY_2024, F6AGWUJG_2021, F6FYZITI_2025, F6HYTYIJ_2025, F6L9HHYL_2025, F6MTPVK7_2025, F6AHDRFQ_2020, F6QHVGUI_2023, F6R7J9HL_2025, F6UXQABW_2024, F6XZV8BZ_2025, F6YMWPUX_2021, F6Z82KER_2024, F6ZP448B_2017}.
+We use the Qualitative Interview Corpus \citep{ivey2026makesgoodresponseempirical}, which contains interview transcripts from 14 research projects \citep{F68TOJJY_2024, F6AGWUJG_2021, F6FYZITI_2025, F6HYTYIJ_2025, F6L9HHYL_2025, F6MTPVK7_2025, F6AHDRFQ_2020, F6QHVGUI_2023, F6R7J9HL_2025, F6UXQABW_2024, F6XZV8BZ_2025, F6YMWPUX_2021, F6Z82KER_2024, F6ZP448B_2017}.
 
 ```
 
 BibTeX with our work and the original data deposits:
 
 ```
-@misc{ivey2026whatmakesgoodresponse,
+@misc{ivey2026makesgoodresponseempirical,
       title={What Makes a Good Response? An Empirical Analysis of Quality in Qualitative Interviews}, 
       author={Jonathan Ivey and Anjalie Field and Ziang Xiao},
       year={2026},
-      eprint={TBD},
+      eprint={2604.05163},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={TBD}, 
+      url={https://arxiv.org/abs/2604.05163}, 
 }
 
 @data{F68TOJJY_2024,
