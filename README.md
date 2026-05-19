@@ -4,7 +4,7 @@
 This repository contains the code for the paper:
 > Jonathan Ivey, Anjalie Field, and Ziang Xiao. 2026. What Makes a Good Response? An Empirical Analysis of Quality in Qualitative Interviews. In *arXiv preprint* ArXiv:2604.05163 [cs].
 
-In this paper we identify, implement, and evaluate 10 proposed measures of interview response quality to determine which are actually predictive of a response's contribution to the study findings. To conduct our analysis, we introduce the [Qualitative Interview Corpus](https://data.qdr.syr.edu/dataset.xhtml?persistentId=doi:10.5064/F6JWVCH6), a newly constructed dataset of 343 interview transcripts with 16,940 participant responses from 14 real research projects.
+In this paper we identify, implement, and evaluate 10 proposed measures of interview response quality to determine which are actually predictive of a response's contribution to the study findings. To conduct our analysis, we introduce the [Qualitative Interview Corpus](https://doi.org/10.5064/F6JWVCH6), a newly constructed dataset of 343 interview transcripts with 16,940 participant responses from 14 real research projects.
 
 ## Citing Our Work
 If you use our work, please cite it as:
@@ -188,7 +188,7 @@ url = {https://doi.org/10.5064/F6ZP448B}
 
 ## Reproducability Instructions
 
-This file contains instructions for how to reproduce the results from our paper. The simplest way to do this is to download the [Qualitative Interview Corpus](https://data.qdr.syr.edu/dataset.xhtml?persistentId=doi:10.5064/F6JWVCH6) and place it in the data folder. With that data you can:
+This file contains instructions for how to reproduce the results from our paper. The simplest way to do this is to download the [Qualitative Interview Corpus](https://doi.org/10.5064/F6JWVCH6) and place it in the data folder. With that data you can:
 
 1. Reproduce the results and figures from the paper (start at [Reproducing Results](#reproducing-results)).
 
